@@ -1,2 +1,2 @@
-# prueva
+# prueba
 prueba para principiante
